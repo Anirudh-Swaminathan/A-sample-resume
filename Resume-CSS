@@ -1,0 +1,33 @@
+div{
+    background-color:#66FFFF;
+    border-radius:10px;
+    width:100%;
+}
+#header{
+    z-index:1;
+    position:fixed;
+}
+.left{
+    position:relative;
+    top:90px;
+}
+.right{
+    clear:left;
+    top:100px;
+    position:relative;
+    background-color:yellow;
+}
+#footer{
+    clear:both;
+    position:relative;
+    background-color:lightblue;
+	top:95px;
+}
+.bold{
+    font-weight:bold;
+}
+#content{
+    background-color:beige;
+    position:relative;
+    top:75px;
+}
