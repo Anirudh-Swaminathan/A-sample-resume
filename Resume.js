@@ -26,4 +26,4 @@
 		}
 		
 	}
-	setInterval(change,300);
+	setInterval(change,180);
