@@ -31,3 +31,9 @@ div{
     position:relative;
     top:75px;
 }
+#center_me{
+		width:400px;
+		background-color:orange;
+		text-align:center;
+		margin-left:30%;
+}
